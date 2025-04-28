@@ -37,11 +37,12 @@ https://v0-quizz-appp.vercel.app/
 - pnpm (recommended) or npm/yarn
 
 ## Application Screenshots
-![Screenshot (28)](https://github.com/user-attachments/assets/9a1e3206-ef24-4c06-8ee7-c7e032715da9)
-![Screenshot (29)](https://github.com/user-attachments/assets/b3262c10-de1a-440e-88ca-7586f263d141)
-![Screenshot (30)](https://github.com/user-attachments/assets/86405b08-e3ad-4a46-ba36-f2c5a32b6e24)
-![Screenshot (31)](https://github.com/user-attachments/assets/74e803a6-b146-4071-8eb8-6954e04e9e5c)
-
+![Screenshot 2025-04-28 232313](https://github.com/user-attachments/assets/8b087b9a-dc30-4723-9c87-cd3a8fc333be)
+![Screenshot 2025-04-28 232323](https://github.com/user-attachments/assets/a45cce03-77b2-4a86-974d-632d5a5333ee)
+![Screenshot 2025-04-28 232335](https://github.com/user-attachments/assets/5935127f-ae66-439e-a4f5-77df27de5435)
+![Screenshot 2025-04-28 232350](https://github.com/user-attachments/assets/20faa6cf-4d5a-4f08-8f43-9b62bc1cd363)
+![Screenshot 2025-04-28 232400](https://github.com/user-attachments/assets/c4f096ef-eeee-433c-b9d5-43f9af69dede)
+![Screenshot 2025-04-28 232413](https://github.com/user-attachments/assets/2acf78f7-5014-44ba-b947-4b9baaedeb70)
 
 
 
