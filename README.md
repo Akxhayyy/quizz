@@ -28,18 +28,8 @@ An interactive quiz application built for the Google Developer Student Clubs (GD
 - **State Management**: React Context
 - **Type Safety**: TypeScript
 
-## Project Structure
-.
-├── app/                  # Next.js app router directory
-├── components/           # Reusable components
-├── lib/                  # Utility functions and libraries
-├── hooks/                # Custom React hooks
-├── public/               # Static assets
-├── styles/               # Global styles
-├── tailwind.config.ts    # Tailwind CSS configuration
-├── tsconfig.json         # TypeScript configuration
-├── package.json          # Project dependencies
-└── README.md             # Project documentation
+## Project Link
+https://v0-quizz-appp.vercel.app/
 
 ### Prerequisites
 
